@@ -7,7 +7,7 @@ Hello World! I am a Computer Engineering student at Pune Institute of Computer T
 
 ### More Information
 
-I also happen to write about my life, [in my other blog](samridhimaheshwari.blogspot.com).
+I also happen to write about my life, [in my other blog](http://www.samridhimaheshwari.blogspot.com).
 
 ### Contact me
 
