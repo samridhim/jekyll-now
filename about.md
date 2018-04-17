@@ -3,13 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
+Hello World! I am a Computer Science student at Pune Institute of Computer Technology. I have been passionate about computers since as long as I can remember. I believe my journey is just getting started.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[samridhimaheshwari@gmail.com](mailto:samridhimaheshwari@gmail.com)
