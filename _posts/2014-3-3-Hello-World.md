@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My First blog!
+title: What doing an undergraduation in PICT taught me.
 ---
 
-This is my first blog post.
+
