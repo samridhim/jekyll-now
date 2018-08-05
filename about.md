@@ -9,6 +9,11 @@ Hello World! I am a Computer Engineering student at Pune Institute of Computer T
 
 I also happen to write about my life, [in my other blog](http://www.samridhimaheshwari.blogspot.com).
 
+### My Resume
+[Samridhi Maheshwari](https://drive.google.com/open?id=1oItocKvlqLh_QcsTJm1PnKi419hPLXnl).
+
+
 ### Contact me
 
 [samridhimaheshwari@gmail.com](mailto:samridhimaheshwari@gmail.com)
+
