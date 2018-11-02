@@ -3,6 +3,8 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+### Analysing Gene Regulation with Deep Learning (September 2018 - Present)
+Deep Learning is relatively new in the field of Computational Biology. I, along with 2 other project members are working on analysing regulatary DNA sequences using Deep Learning.Tasks include predicting TF binding, Specificity to TF's, etc.
 
 ### Stock Trend Prediction (Jan 2018 - Mar 2018)
 Predicts whether the stock index will trend up or down for the next day using historical data.
