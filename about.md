@@ -15,5 +15,5 @@ I also happen to write about my life, [in my other blog](http://www.samridhimahe
 
 ### Contact me
 
-firstnamelastname at gmail dot com
+firstnamelastname at gmail dot com 
 
