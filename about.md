@@ -10,7 +10,7 @@ Hello World! I am currently working as a Software Engineer at [PhonePe](https://
 I also happen to write about my life, [in my other blog](http://www.samridhimaheshwari.blogspot.com).
 
 ### My Resume
-[Samridhi Maheshwari](https://drive.google.com/file/d/1HimIipk7Uw2Lrjh04SeNngcDgzCZM0La/view?usp=sharing).
+[Samridhi Maheshwari](https://drive.google.com/file/d/1qPOpy9LaJBnODrWQvB_6s4OBmuahf0Fs/view?usp=sharing).
 
 
 ### Contact me
