@@ -1,9 +1,9 @@
-----
+---
 layout: page
 title: Projects
 permalink: /projects/
 ---
-  
+
 ### Analysing Gene Regulation with Deep Learning
 The influence of genomic sequence on patterns of histone modification associated with gene expression and chromatin programming is called sequence bias, and it suggests that the mechanisms responsible for global histone modifications may interpret genomic sequence in various ways.
 
