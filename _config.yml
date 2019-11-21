@@ -83,4 +83,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: forty-jekyll-theme
+theme: jekyll-theme-cayman
