@@ -1,7 +1,7 @@
+----
 layout: page
 title: Projects
 permalink: /projects/
-
 ---
   
 ### Analysing Gene Regulation with Deep Learning
