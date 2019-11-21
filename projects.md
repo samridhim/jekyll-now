@@ -9,7 +9,7 @@ The influence of genomic sequence on patterns of histone modification associated
 
 In this research project we undertake the task of finding such sequence biases using Deep Learning. Specifically, we train a Convolutional Neural Network to detect patterns in DNA Sequences which are underlying certain histone marks.
 
-For more information, link to our final presentation: [](https://bit.ly/2Y2a4L4)
+For more information, link to our final presentation: [https://bit.ly/2Y2a4L4](https://bit.ly/2Y2a4L4)
 
 ### Stock Trend Prediction
 Used stock index data like Dow Jones to predict the trend of the stock prices going up or down. Features were RSI, Moving Average, etc which are also known as technical indicators. Compared the performance of 3 algorithms - Logistic Regression, SVM and Random Forests. SVM reported the highest accuracy of 96%.
