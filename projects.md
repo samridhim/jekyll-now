@@ -10,10 +10,10 @@ Deep Learning is relatively new in the field of Computational Biology. I, along 
 Predicts whether the stock index will trend up or down for the next day using historical data.
 
 ### Fire Detection System (Jan 2018 - Mar 2018)
-Detects CO level and notifies user through mail and SMS.
+Built a fire detecter using Raspberry Pi. It detects CO level and notifies user through mail and SMS. Also pushed the data onto Thingspeak API. 
 
 ### Spotify Analysis (Dec 2017)
-A hobby project I did where I mined the data from spotify's web api of top artists and removed the song qualities such as loudness, timber, excitement, etc. Then I plotted the data using matplotlib and ran a K-Means clustering algorithm to classify my songs into different categories. 
+I mined the data from spotify's web api of top artists and removed the song qualities such as loudness, timbre, excitement, etc. Then I plotted the data using matplotlib and ran a K-Means clustering algorithm to classify my songs into different categories. 
 
 ### Olympian (Aug 2017 - Oct 2018)
 An android app which calculates calories using distance ran, speed of running, weight & height of the person. A catalog with various Exercise GIF's is also provided with voice commands.
