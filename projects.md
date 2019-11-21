@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Interesting things I have worked on...
 permalink: /projects/
 ---
 
@@ -11,7 +12,7 @@ In this research project we undertake the task of finding such sequence biases u
 For more information, link to our final presentation: https://bit.ly/2Y2a4L4
 
 ### Stock Trend Prediction
-Used stock index data like Dow Jones to predict the trend of the stock prices going up or down. Features were RSI and Moving Average which are the technical indicators of a stock. Compared the performance of 3 algorithms - Logistic Regression, SVM and Random Forests. SVM reported the highest accuracy of 96%   
+Used stock index data like Dow Jones to predict the trend of the stock prices going up or down. Features were RSI, Moving Average, etc which are also known as technical indicators. Compared the performance of 3 algorithms - Logistic Regression, SVM and Random Forests. SVM reported the highest accuracy of 96%.
 
 ### Fire Detection System
 Built a fire detecter using Raspberry Pi. It detects CO level and notifies user through mail and SMS. Also pushed the data onto Thingspeak API for doing data visualisation like plotting histograms, etc. 
