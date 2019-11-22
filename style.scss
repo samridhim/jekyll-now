@@ -18,9 +18,9 @@ html {
 }
 
 body {
-  background: $darkBlue;
+	background: $white;
   font: 18px/1.4 $helvetica;
-  color: $white;
+  color: $darkGray;
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $white;
+  color: $darkerGray;
   font-weight: bold;
 
   line-height: 1.7;
@@ -61,7 +61,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $white;
+  color: $gray;
 }
 
 p {
@@ -73,7 +73,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $white;
+    color: $blue;
   }
 }
 
@@ -117,16 +117,16 @@ img {
 
 .date {
   font-style: italic;
-  color: $white;
+  color: $gray;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $white;
+  color: $black;
   background: $lightGray;
 }
 ::selection {
-  color: $white;
+  color: $black;
   background: $lightGray;
 }
 
@@ -192,7 +192,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $white;
+  color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -275,7 +275,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $white;
+  background-color: $lightGray;
 }
 
 footer {
